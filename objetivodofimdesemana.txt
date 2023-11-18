@@ -1,0 +1,5 @@
+-> criar vetor dinamico de estruturas, Salvador.
+-> validações das ligacoes de estruturas , Salvador.
+-> Ler ficheiro txt e carregar as pessoas dinamicamente, Proença
+-> Colocar pessoas nos espaços de forma aleatorio (Salvador, Proença)
+
